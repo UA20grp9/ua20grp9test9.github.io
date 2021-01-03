@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Futura Bold font';
+   font-display: swap;
+   src: url('Futura Bold font/font.ttf');
+}
+@font-face {
+   font-family: 'futur';
+   font-display: swap;
+   src: url('futur/font.ttf');
+}
